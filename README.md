@@ -1,2 +1,2 @@
 # Data-Analysis
-Mini Projects and Jupyter Notebook from numpa, pandas etc.
+Mini Projects and Jupyter Notebook from numpy, pandas etc.
